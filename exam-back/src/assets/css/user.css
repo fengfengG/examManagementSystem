@@ -1,0 +1,20 @@
+.adduser .adduser-form {
+    padding: 10px;
+    height: 400px;
+    box-sizing: border-box;
+    border-left: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+}
+
+.adduser-bottom .adduser-form {
+    height: 280px;
+    border-bottom: 1px solid #ccc;
+}
+
+.adduser-right .adduser-form {
+    border-right: 1px solid #ccc;
+}
+
+.showUser .ant-tabs-tab {
+    margin: 0;
+}

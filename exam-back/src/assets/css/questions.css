@@ -1,0 +1,12 @@
+.Alls {
+    line-height: 30px;
+}
+
+.Alls>div {
+    margin-bottom: 35px;
+}
+
+.Alls>div>span {
+    display: flex;
+    margin-bottom: 12px;
+}
